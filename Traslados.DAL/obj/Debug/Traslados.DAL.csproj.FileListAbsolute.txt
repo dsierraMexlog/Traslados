@@ -1,0 +1,17 @@
+C:\ML\Traslados\Traslados.DAL\obj\Debug\Traslados.DAL.csprojResolveAssemblyReference.cache
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Traslados.DAL.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Traslados.DAL.pdb
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\ML\Traslados\Traslados.DAL\obj\Debug\Traslados.DAL.dll
+C:\ML\Traslados\Traslados.DAL\obj\Debug\Traslados.DAL.pdb
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Traslados.BE.dll
+C:\ML\Traslados\Traslados.DAL\bin\Debug\Traslados.BE.pdb

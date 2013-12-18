@@ -1,0 +1,5 @@
+C:\ML\Traslados\Traslados.BE\bin\Debug\Traslados.BE.dll
+C:\ML\Traslados\Traslados.BE\bin\Debug\Traslados.BE.pdb
+C:\ML\Traslados\Traslados.BE\obj\Debug\Traslados.BE.csprojResolveAssemblyReference.cache
+C:\ML\Traslados\Traslados.BE\obj\Debug\Traslados.BE.dll
+C:\ML\Traslados\Traslados.BE\obj\Debug\Traslados.BE.pdb
